@@ -106,4 +106,4 @@ Then use the interactive menu:
 
 **Osama Mohammed Al-Senany**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-osama--mohammed--alsenani-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/osama-mohammed-alsenani)
-[![GitHub](https://github.com/osama-alsenany/social-network-graph)](github.com/osama-alsenany)
+[![GitHub](https://img.shields.io/badge/GitHub-osama--alsenany-black?style=flat-square&logo=github)](https://github.com/osama-alsenany)
