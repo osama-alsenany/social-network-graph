@@ -94,14 +94,6 @@ Then use the interactive menu:
 
 ---
 
-# Academic Context
-
-> **Course:** 231-CCS-4 — Data Structures and Algorithms  
-> **Institution:** King Khalid University — College of Computer Science  
-> **Year:** 2024–2025
-
----
-
 ## 👤 Author
 
 **Osama Mohammed Al-Senany**  
